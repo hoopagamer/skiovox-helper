@@ -2,11 +2,15 @@
   "manifest_version": 2,
   "version": "2.4.1",
   "name": "Skiovox Helper",
+  "allowlist": [
+      "",
+      "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
+    ]
   "description": "A helper for the Skiovox exploit -- read more at skiovox.com",
   "icons": {
     "128": "icon.png"
   },
-  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAz0CPa5Fdwz1ebeR7TWeQ4pIfM8dmtcyCNFlcMXGYO0C15OgzSLEvTVZnPJDzVzTed3JlaP5XvgednjyE7jwGHQHyuJuQwY3iwgtdxgtmAALiw3jzTX8caYfwOmV3sSek4C8wWEq8r6G3MHRGKkZTe3FdjM8vVCNZoO0oxEKZbp/PTKJMvrsNVYsHOeVbT4nyCnHubIrzGGCIaISPr0Yn4fx5vMVNUuW64txQb+VHp0jWkK+2ysBzUBeiue2lhfdUixfYMI4mlTL+j0/zt8tVRYl21WkKsunS5HF9JVKy5OvK+wlvnxFlso/lk5wUi+3QeODZ0QL4Xkx1AxF2iug8owIDAQAB",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwUCHbnHIkyJcg0MRIvynUNhJQthH+bXOV/w3CLh18JoJHz83U1jWMIGHG+MPU4wjozrmx6aK+FAYxgTB10vPrx2fgyL4l7sMbpmDwArt8W9iSecue5vO0d0vo3nXnZ0+qUJWreZDflUSu9iwcg1i+GXg4SbYJ6mqeVV4eNlqDXzueeGttCuHlf3aie4ZJnxoV4K4cxCSpJQo/33X8sMLfTmmt+oPc9ZDMORGogH9vk/oSrv/TaZLER79VHfQBtp42WyvEhhtCmwRrHagDyv99l3AiHfO13qz0gRqGK7Gcwd3Z/V1GnhPJHU5OdMP6q0hU179ssF7lpJF9hdwSJhCDQIDAQAB/PTKJMvrsNVYsHOeVbT4nyCnHubIrzGGCIaISPr0Yn4fx5vMVNUuW64txQb+VHp0jWkK+2ysBzUBeiue2lhfdUixfYMI4mlTL+j0/zt8tVRYl21WkKsunS5HF9JVKy5OvK+wlvnxFlso/lk5wUi+3QeODZ0QL4Xkx1AxF2iug8owIDAQAB",
   "commands": {
     "ACCESS_HISTORY": {
       "description": "Ctrl+H"
